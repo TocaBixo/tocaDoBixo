@@ -80,11 +80,11 @@ echo '<script language = "JavaScript">
             <br />
 		<div id="casa">
 	        <a href="usp.php"><img src="imagens/usp.png" width="10%" height="30%" alt="USP"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			<a href="unicamp.html"><img src="imagens/unicamp.png" width="10%" height="30%" alt="Unicamp"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			<a href="UNESP.html"><img src="imagens/unesp.png" width="10%" height="30%" alt="Unesp"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			<a href="unifesp.html"><img src="imagens/unifesp.png" width="10%" height="30%" alt="Unifesp"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			<a href="puc.html"><img src="imagens/puc.png" width="10%" height="30%" alt="PUC"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			<a href="mackenzie.html"><img src="imagens/mackenzie.png" width="10%" height="30%" alt="Mackenzie"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="unicamp.php"><img src="imagens/unicamp.png" width="10%" height="30%" alt="Unicamp"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="UNESP.php"><img src="imagens/unesp.png" width="10%" height="30%" alt="Unesp"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="UNIFESP.php"><img src="imagens/unifesp.png" width="10%" height="30%" alt="Unifesp"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="puc.php"><img src="imagens/puc.png" width="10%" height="30%" alt="PUC"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="mackenzie.php"><img src="imagens/mackenzie.png" width="10%" height="30%" alt="Mackenzie"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
          </nav>	       
       
          

@@ -32,11 +32,11 @@
 </div>
         
         <div id="logo">
-	  <a href="index.html"><img src="imagens/logo3.PNG" alt="logo"/></a>
+	  <a href="index.php"><img src="imagens/logo3.PNG" alt="logo"/></a>
 	</div>
         
     <nav id="menu-superior">
-  <a href="index.html"> <img class="menu_img" src="imagens/casa.png" onmouseover="this.src='imagens/casaHover.png'" onmouseout="this.src='imagens/casa.png'"/></a>
+  <a href="index.php"> <img class="menu_img" src="imagens/casa.png" onmouseover="this.src='imagens/casaHover.png'" onmouseout="this.src='imagens/casa.png'"/></a>
   <a href="faleconosco.html"> <img class="menu_img" src="imagens/faleconosco.png" onmouseover="this.src='imagens/faleconoscoHover.png'" onmouseout="this.src='imagens/faleconosco.png'"/></a> 
   <a href="anunciarmoradia.html"> <img class="menu_img2" src="imagens/anuncio.png" onmouseover="this.src='imagens/anuncioHover.png'" onmouseout="this.src='imagens/anuncio.png'" /></a> 
   <a href="#dialog" name="login"> <img class="menu_img2" src="imagens/login.png" onmouseover="this.src='imagens/loginHover.png'" onmouseout="this.src='imagens/login.png'" /></a>
@@ -153,7 +153,7 @@
     <nav id="menu_principal">
         
         <ul class="dropdown">
-        	<li class="espacoimg-usp"><a href="usp.html"><img id="imgusp" src="imagens/usp.png"  width="113px" height="105px" alt="USP" /></a>
+        	<li class="espacoimg-usp"><a href="usp.php"><img id="imgusp" src="imagens/usp.png"  width="113px" height="105px" alt="USP" /></a>
         		<ul class="sub_menu">
         			 <li>
         				<a href="#">Exemplo1.1</a>
@@ -198,7 +198,7 @@
         		</ul>
         	</li>
 			
-			<li class="espacoimg"><a href="unicamp.html"><img src="imagens/unicamp.png" width="120px" height="140px" alt="Unicamp" /></a>
+			<li class="espacoimg"><a href="unicamp.php"><img src="imagens/unicamp.png" width="120px" height="140px" alt="Unicamp" /></a>
         		<ul class="sub_menu">
         			 <li>
         				<a href="#">Exemplo2.1</a>
@@ -244,7 +244,7 @@
         		</ul>
         	</li>
 			
-			<li class="espacoimg"><a href="UNESP.html"><img src="imagens/unesp.png"   width="180px" height="140px" alt="Unesp" ></a>
+			<li class="espacoimg"><a href="UNESP.php"><img src="imagens/unesp.png"   width="180px" height="140px" alt="Unesp" ></a>
         		<ul class="sub_menu">
         			 <li>
         				<a href="#">Exemplo3.1</a>
@@ -290,7 +290,7 @@
         		</ul>
         	</li>
 			
-			<li class="espacoimg"><a href="unifesp.html"><img src="imagens/unifesp.png"  width="140px" height="140px"  alt="Unifesp" /></a>
+			<li class="espacoimg"><a href="UNIFESP.php"><img src="imagens/unifesp.png"  width="140px" height="140px"  alt="Unifesp" /></a>
         		<ul class="sub_menu">
         			  <li>
         				<a href="#">Exemplo4.1</a>
@@ -336,7 +336,7 @@
         		</ul>
         	</li>
 			
-			<li><a href="puc.html"><img src="imagens/puc.png"  width="160px" height="140px"  alt="PUC"/></a>
+			<li><a href="puc.php"><img src="imagens/puc.png"  width="160px" height="140px"  alt="PUC"/></a>
         		<ul class="sub_menu">
         			 <li>
         				<a href="#">Exemplo5.1</a>
@@ -382,7 +382,7 @@
         		</ul>
         	</li>
 			
-			<li><a href="mackenzie.html"><img src="imagens/mackenzie.png"  width="165px" height="140px" alt="Mackenzie" /></a>
+			<li><a href="mackenzie.php"><img src="imagens/mackenzie.png"  width="165px" height="140px" alt="Mackenzie" /></a>
         		<ul class="sub_menu">
         			 <li>
         				<a href="#">Exemplo6.1</a>

@@ -26,7 +26,7 @@ validaAutenticacao('ADM','javascript:history.back(1)');
            <div id='topoAbso'>  
              
 <div id="logo">
-<a href="index.html"><img src="../imagens/logo3.png" width="170px" /></a>
+<a href="index.php"><img src="../imagens/logo3.png" width="170px" /></a>
 </div>
                       
 		   <nav id="menu-inferior">
@@ -39,7 +39,7 @@ validaAutenticacao('ADM','javascript:history.back(1)');
 </form>
 </div> 
               <div id='linksTopo'>         
- &nbsp;&nbsp; <a href="index.html"><img src="../imagens/casa.png" width="4%"/> Home </a> &nbsp;&nbsp;
+ &nbsp;&nbsp; <a href="index.php"><img src="../imagens/casa.png" width="4%"/> Home </a> &nbsp;&nbsp;
  <a href="../logout_toca.php"> <img src="../imagens/login2.png" width="3%" /> Efetuar Logout </a>
  
               </div> 
